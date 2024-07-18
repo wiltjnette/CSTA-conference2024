@@ -1,2 +1,2 @@
 # CSTA-conference2024
-Practice 
+Trying new things
